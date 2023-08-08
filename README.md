@@ -6,7 +6,11 @@ Welcome to my GitHub profile! I'm David, a software engineer applying tech to so
 Here are some of the technologies I work with:
 
 💻 Languages: C, TypeScript, JS
+
 Frameworks/Libraries: React, Gatsby, Next
+
 package Databases: MongoDB, mySQL
+
 🚀 Tools: Git, Linux
+
 And many more! Kindly Check out my repositories to see the projects I've been working on.

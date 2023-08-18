@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm David, a software engineer applying tech to solving problems and building useful products. I'm currently honing my backend skills and DevOps skills.
+Welcome to my GitHub profile! I'm David, a software engineer applying tech to solving problems and building useful products. I'm currently honing my backend and DevOps skills.
 
 ## Skills & Tools
 Here are some of the technologies I work with:
